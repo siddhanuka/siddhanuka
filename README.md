@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, Siddharth here 👋
 
-<!--
-**siddhanuka/siddhanuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=bw98&show_icons=true&hide_border=true" alt="Weifeng's Github Stats">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student at Northeastern University
+- 🌟 Seeking full-time opportunities in Software Development or DevOps roles
+- 🔬 Interested in developing tools for efficient ML/Web system maintenance
+- 💻 Healthcare IT developer with a passion for microservices and scalable architectures
+- 🚀 On the way to graceful code
+- 📊 Former Sr Software Engineer at [Allscripts](https://www.allscripts.com/)
+- 💊 Software Engineer Co-op at [Strand Therapeutics](https://www.strandtx.com/)
+- 💬 How to reach me: [https://www.linkedin.com/in/siddharth-dhanuka/](https://www.linkedin.com/in/siddharth-dhanuka/)
